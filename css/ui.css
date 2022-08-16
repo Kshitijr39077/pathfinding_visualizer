@@ -18,6 +18,7 @@ html {
 .headder-text {
     font-weight: 600;
     font-size: 150%;
+    text-align: center;
 }
 
 .headder-title-container {
@@ -28,6 +29,7 @@ html {
     padding-left: 20px;
     padding-bottom: 15px;
     color:#fff;
+
 }
 
 .options-container {
@@ -36,6 +38,7 @@ html {
     background-color: #2b2929;
     padding: 10px;
     color: #fff;
+    
 }
 
 .dropdown-surface {
@@ -109,6 +112,7 @@ img.dropdown-image {
     height: fit-content;
     width: fit-content;
     padding-top: 5px;
+    padding-left:575px;
 }
 
 .surface {
@@ -132,3 +136,4 @@ img.dropdown-image {
     background-color: #dedede;
     color: black;
 }
+
